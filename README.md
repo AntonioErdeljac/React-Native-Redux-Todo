@@ -1,5 +1,6 @@
 # React-Native-Redux-Todo
 ---
+Simple React Native project with Redux structure
 
 ### What you will need
 * react-native-cli
